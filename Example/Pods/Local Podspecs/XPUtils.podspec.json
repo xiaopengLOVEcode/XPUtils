@@ -1,0 +1,22 @@
+{
+  "name": "XPUtils",
+  "version": "0.1.0",
+  "summary": "A short description of XPUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xialipeng/XPUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xialipeng": "xialipeng@bigo.sg"
+  },
+  "source": {
+    "git": "https://github.com/xialipeng/XPUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XPUtils/Classes/**/*"
+}

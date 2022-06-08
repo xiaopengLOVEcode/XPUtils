@@ -1,0 +1,16 @@
+PODS:
+  - XPUtils (0.1.0)
+
+DEPENDENCIES:
+  - XPUtils (from `../`)
+
+EXTERNAL SOURCES:
+  XPUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XPUtils: 96e0357cf32bbbe9c01309476b99969ef99af21d
+
+PODFILE CHECKSUM: ed52779643fedf1a8397be7ee14687847ec00dc8
+
+COCOAPODS: 1.9.1

@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/xialipeng/XPUtils'
+  s.homepage         = 'https://github.com/xiaopengLOVEcode/XPUtils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xialipeng' => 'xialipeng@bigo.sg' }
-  s.source           = { :git => 'https://github.com/xialipeng/XPUtils.git', :tag => s.version.to_s }
+  s.author           = { 'xialipeng' => '1397351457@qq.com' }
+  s.source           = { :git => 'https://github.com/xiaopengLOVEcode/XPUtils.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

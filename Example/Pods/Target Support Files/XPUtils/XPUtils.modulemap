@@ -1,0 +1,6 @@
+framework module XPUtils {
+  umbrella header "XPUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

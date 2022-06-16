@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of XPUtils.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/xialipeng/XPUtils",
+  "homepage": "https://github.com/xiaopengLOVEcode/XPUtils",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "xialipeng": "xialipeng@bigo.sg"
+    "xialipeng": "1397351457@qq.com"
   },
   "source": {
-    "git": "https://github.com/xialipeng/XPUtils.git",
+    "git": "https://github.com/xiaopengLOVEcode/XPUtils.git",
     "tag": "0.1.0"
   },
   "platforms": {

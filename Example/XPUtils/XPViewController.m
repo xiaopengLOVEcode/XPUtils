@@ -7,7 +7,7 @@
 //
 
 #import "XPViewController.h"
-#import <XPUtils/UIView+Layout>
+#import "UIView+Layout.h"
 
 @interface XPViewController ()
 
